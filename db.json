@@ -1,0 +1,22 @@
+{
+  "patientAdmissions": [],
+  "patientIntakeDetails": [],
+  "hospitalExpenses": [],
+  "doctorsDetails": [],
+  "nursesDetails": [],
+  "staffDetails": [],
+  "bloodBankDonorDetails": [],
+  "newBornChildDetails": [],
+  "login": [
+    {
+      "email": "HOSPITALSMANAGEMENTADMIN",
+      "password": "Hospitals@123",
+      "store": "ADMIN"
+    },
+    {
+      "email": "HOSPITALSMANAGEMENTUSER",
+      "password": "Hospitals@123",
+      "store": "USER"
+    }
+  ]
+}
